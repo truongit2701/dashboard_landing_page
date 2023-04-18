@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/truongit2701/dashboard_landing_page/static/css/main.a039d4d8.css",
+    "main.js": "/truongit2701/dashboard_landing_page/static/js/main.93b5fbcf.js",
+    "static/js/787.545aecf5.chunk.js": "/truongit2701/dashboard_landing_page/static/js/787.545aecf5.chunk.js",
+    "static/media/img1.png": "/truongit2701/dashboard_landing_page/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/truongit2701/dashboard_landing_page/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/truongit2701/dashboard_landing_page/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/truongit2701/dashboard_landing_page/index.html",
+    "main.a039d4d8.css.map": "/truongit2701/dashboard_landing_page/static/css/main.a039d4d8.css.map",
+    "main.93b5fbcf.js.map": "/truongit2701/dashboard_landing_page/static/js/main.93b5fbcf.js.map",
+    "787.545aecf5.chunk.js.map": "/truongit2701/dashboard_landing_page/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a039d4d8.css",
+    "static/js/main.93b5fbcf.js"
+  ]
+}
